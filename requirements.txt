@@ -1,0 +1,7 @@
+transformers @ git+https://github.com/connor-qingxia/transformers@text-classification-stride
+flask==3
+python-dotenv==1
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.1+cpu
+
